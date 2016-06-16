@@ -1,0 +1,14 @@
+Steps :
+
+dependencies : Swagger : Core & UI
+
+Create config file
+
+Download UI and add to resource/static
+
+Give @Api at necessary places
+
+Reference :
+http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+https://dzone.com/articles/spring-boot-swagger-ui
+http://fruzenshtein.com/spring-boot-swagger-ui/
